@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "bookshelves-projet-angular",
+    "default": "bookshelves-projet-angular"
+  }
+}
